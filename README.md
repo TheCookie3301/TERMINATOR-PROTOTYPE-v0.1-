@@ -34,15 +34,10 @@ Try typing things like:
 
 ```text
 tell me a joke
-text
 change mood to mean
-text
 2+2
-text
 make me a list
-text
 lol
-text
 the earth is flat
 (Results may include jokes, emotional instability, or a full system crash.)
 ```
