@@ -35,19 +35,14 @@ Try typing things like:
 ```text
 tell me a joke
 text
-Copy code
 change mood to mean
 text
-Copy code
 2+2
 text
-Copy code
 make me a list
 text
-Copy code
 lol
 text
-Copy code
 the earth is flat
 (Results may include jokes, emotional instability, or a full system crash.)
 ```
