@@ -168,7 +168,7 @@ def handle_mood(user_input):
         time.sleep(1)
         print("Decided output having 99% probability that user will be satisfied.")
         time.sleep(1)
-        print(random.choice(sad_phrases).format(user=USERNAME))
+        print(random.choice(output_sad).format(user=USERNAME))
     elif any(word in text for word in angry_phrases):
         load1()
         print(random.choice(output_angry).format(user=USERNAME))
@@ -527,5 +527,6 @@ while True:
         handle_mood(user_input)
 
 #ompletely random chunk of code that aint werking anywhere
+
 
 
